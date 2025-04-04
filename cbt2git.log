@@ -1,0 +1,5 @@
+2025-04-04 09:53:08.716870 - Received CBT.V508.FILE446.PDS from FILE446.XMI 
+2025-04-04 09:53:08.717540 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE446.PDS, moved to PDS/$$$#DATE
+2025-04-04 09:53:08.717695 - Found $$$NOTE.eml (message/rfc822) in CBT.V508.FILE446.PDS, moved to PDS/$$$NOTE
+2025-04-04 09:53:08.717849 - Found @FILE446.txt (text/plain) in CBT.V508.FILE446.PDS, moved to PDS/@FILE446
+2025-04-04 09:53:08.717985 - Found UNIX0002.txt (text/plain) in CBT.V508.FILE446.PDS, moved to PDS/UNIX0002
